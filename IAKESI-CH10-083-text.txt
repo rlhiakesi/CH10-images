@@ -1,0 +1,23 @@
+IAKESI — CHAPTER 10 — PAGE 083
+Title: Roselyn’s Lesson
+Layout: one wide top panel; one wide middle panel; three equal bottom panels
+
+CH10-P083-S01
+Roselyn — speech: “That concludes today's lesson.”
+
+CH10-P083-S02
+No reader-visible text.
+
+CH10-P083-S03
+Roselyn — speech: “You've changed, Lady Midori.”
+Midori — speech: “I have?”
+
+CH10-P083-S04
+Roselyn — connected speech: “When we first met...”
+Roselyn — connected speech: “...you spoke like a child from a distant village.”
+Connected chain: one tail total, owned by Roselyn.
+
+CH10-P083-S05
+Roselyn — connected speech: “Now...”
+Roselyn — connected speech: “...you speak like someone who belongs in the Temple of Light.”
+Connected chain: one tail total, owned by Roselyn.
