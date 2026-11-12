@@ -1,0 +1,22 @@
+IAKESI — CHAPTER 10 — PAGE 001
+Title: The Hidden Route
+Layout: one wide top panel; three equal vertical panels below
+
+CH10-P001-S01
+Midori — speech: “Are we not allowed to use the other halls?”
+Seraphine — speech: “You are.”
+
+CH10-P001-S02
+Seraphine — connected two-balloon speech chain:
+1. “But everyone is talking about the Resurrection Chamber.”
+2. “For today, a little privacy would be wise.”
+Seraphine — speech: “This way.”
+
+CH10-P001-S03
+Midori — thought: “The Temple is enormous...”
+
+CH10-P001-S04
+Seraphine — speech: “My office.”
+
+Production note:
+The lettering PNG is a transparent placement guide for Clip Studio Paint. Balloon shapes, connectors, tails, and thought dots are provisional.

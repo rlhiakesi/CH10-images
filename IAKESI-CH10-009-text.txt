@@ -1,0 +1,17 @@
+PANEL 1
+ROSELYN: What do you think of this library?
+
+PANEL 2
+MIDORI: It's really, really big!
+
+PANEL 3
+ROSELYN: Perfectly understandable.
+ROSELYN: But when speaking before scholars...
+
+PANEL 4
+ROSELYN: ...you might instead say...
+ROSELYN: It is magnificent.
+CONNECTED CHAIN: YES
+
+PANEL 5
+MIDORI: It is magnificent.

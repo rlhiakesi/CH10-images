@@ -1,0 +1,19 @@
+IAKESI — CHAPTER 10 — PAGE 007
+Title: The First Conversation — Two Languages
+Layout: two equal upper panels; one wide bottom panel
+
+CH10-P007-S01
+Roselyn — speech: “Then your own language sounds different?”
+Midori — speech in Japanese: “私は緑です。鎌倉から来ました。”
+
+CH10-P007-S02
+Midori — speech: “I said, 'I am Midori. I came from Kamakura.'”
+
+CH10-P007-S03
+Roselyn — connected two-balloon speech chain:
+1. “She understands every question...”
+2. “...but she speaks like a child.”
+Seraphine — speech: “Then begin there.”
+
+Production note:
+The Japanese sentence is authoritative reader-visible Japanese script. The lettering PNG is a transparent placement guide for Clip Studio Paint; balloon shapes, connectors, and tails are provisional.

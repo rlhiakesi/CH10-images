@@ -1,0 +1,27 @@
+IAKESI — CHAPTER 10 — PAGE 005
+Title: A New Teacher
+Layout: one wide top panel; two middle panels; two bottom panels
+
+CH10-P005-S01
+Translation insert: “* Roselyn”
+
+CH10-P005-S02
+Roselyn — speech: “High Priestess.”
+
+CH10-P005-S03
+No reader text.
+
+CH10-P005-S04
+Seraphine — connected two-balloon speech chain:
+1. “Ashiba's prophecy described her purpose.”
+2. “If Lady Zorna sent her to us...”
+Seraphine — speech: “...then we shall welcome her.”
+
+CH10-P005-S05
+Roselyn — connected two-balloon speech chain:
+1. “My name is Roselyn.”
+2. “I shall help you learn to speak as an educated Zoran.”
+Midori — speech: “Please take care of me.”
+
+Production note:
+The lettering PNG is a transparent placement guide for Clip Studio Paint. Balloon shapes, connectors, tails, and the translation insert are provisional.

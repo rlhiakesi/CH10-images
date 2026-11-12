@@ -1,0 +1,10 @@
+PANEL 2
+ROSELYN: That is enough for today.
+
+PANEL 4
+ROSELYN: Lady Lucia is expecting you.
+ROSELYN: She will begin teaching you to read and write.
+CONNECTED CHAIN: YES
+
+PANEL 5
+MIDORI: Thank you, Lady Roselyn.

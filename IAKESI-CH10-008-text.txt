@@ -1,0 +1,20 @@
+PANEL 1
+ROSELYN: Try reading this.
+
+PANEL 2
+MIDORI: ...
+ROSELYN: ...You cannot read.
+MIDORI: No...
+
+PANEL 3
+MIDORI: The Abbess had only just begun teaching me...
+
+PANEL 4
+ROSELYN: Then we shall begin with speaking.
+ROSELYN: The writing can wait.
+CONNECTED CHAIN: YES
+
+PANEL 5
+ROSELYN: Words are first spoken.
+ROSELYN: Writing comes later.
+CONNECTED CHAIN: YES

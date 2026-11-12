@@ -1,0 +1,10 @@
+PANEL 1
+ROSELYN: Good day, Esteemed Scholars of the Zoran Temple. May your wisdom illumine our path, and may Zorna's light guide our endeavor.
+
+PANEL 2
+ROSELYN: Now...
+ROSELYN: ...repeat it.
+CONNECTED CHAIN: YES
+
+PANEL 5
+ROSELYN: ...Excellent.
